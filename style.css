@@ -1,1 +1,9 @@
-
+body{
+  background:pink;
+}
+table{
+  background:purple;
+}
+table tr td{
+  border:1px solid ligth blue;
+  border-color:black
